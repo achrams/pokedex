@@ -1,0 +1,111 @@
+.bg-normal {
+  background: #A8A878;
+}
+
+.bg-fighting {
+  background: #C03028;
+}
+
+.bg-flying {
+  background: #A890F0;
+}
+
+.bg-poison {
+  background: #A040A0;
+}
+
+.bg-ground {
+  background: #E0C068;
+}
+
+.bg-rock {
+  background: #B8A038;
+}
+
+.bg-ghost {
+  background: #705898;
+}
+
+.bg-bug {
+  background: #A8B820;
+}
+
+.bg-steel {
+  background: #B8B8D0;
+}
+
+.bg-fire {
+  background: #F08030;
+}
+
+.bg-water {
+  background: #6890F0;
+}
+
+.bg-grass {
+  background: #78C850;
+}
+
+.bg-electric {
+  background: #F8D030;
+}
+
+.bg-ice {
+  background: #98D8D8;
+}
+
+.bg-dragon {
+  background: #7038F8;
+}
+
+.bg-dark {
+  background: #705848;
+}
+
+.bg-fairy {
+  background: #EE99AC;
+}
+
+.bg-psychic{
+  background: #F85888;
+}
+
+.cards{
+  transition-duration: 120ms;
+  transition-delay: 50ms;
+  cursor: pointer;
+}
+
+.cards:hover{
+  transition-duration: 120ms;
+  transition-delay: 50ms;
+  transform: scale(1.05);
+}
+
+.arrow {
+  cursor: pointer;
+}
+
+.page-title {
+  text-decoration: none;
+  color: white;
+}
+
+.bg-image {
+  background: #f4f4f4;
+}
+
+.radius-15{
+  border-radius: 15px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.custom-select {
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
